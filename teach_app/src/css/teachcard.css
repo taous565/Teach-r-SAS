@@ -1,0 +1,13 @@
+.ContainerCard{
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    
+}
+img {
+    width: 32px;
+    height: 32px;
+}
+p {
+    font-size: small;
+}

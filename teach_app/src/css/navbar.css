@@ -1,0 +1,14 @@
+/* -------------------------------------------------------------------------- */
+/*                                   App-bar                                  */
+/* -------------------------------------------------------------------------- */
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+    color: #38726c !important;
+    background-color: white !important;
+  }
+  .css-ancrnh-MuiButtonBase-root-MuiIconButton-root:hover {
+    background-color: white !important;
+    
+  }
+  .css-1f2xuhi-MuiDrawer-docked {
+    width: 1300px !important;
+  }
